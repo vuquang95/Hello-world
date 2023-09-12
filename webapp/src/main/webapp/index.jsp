@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hello Quang 12345</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>My name is Quang.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
